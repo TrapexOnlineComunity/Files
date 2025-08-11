@@ -1,1 +1,23 @@
-{"Status":0,"TC":false,"RD":true,"RA":true,"AD":false,"CD":false,"Question":[{"name":"data-json-new.crmp.online.","type":16}],"Answer":[{"name":"data-json-new.crmp.online.","type":16,"TTL":300,"data":"https://smartbonus.online/data_new_1.json"}],"Comment":"Response from 2803:f800:50::6ca2:c188."}
+{
+  "Status": 0,
+  "TC": false,
+  "RD": true,
+  "RA": true,
+  "AD": false,
+  "CD": false,
+  "Question": [
+    {
+      "name": "data-json-new.crmp.online.",
+      "type": 16
+    }
+  ],
+  "Answer": [
+    {
+      "name": "data-json-new.crmp.online.",
+      "type": 16,
+      "TTL": 300,
+      "data": "https://raw.githubusercontent.com/TrapexOnlineComunity/Files/refs/heads/main/data_new_1.json"
+    }
+  ],
+  "Comment": "Response from 2803:f800:50::6ca2:c188."
+}
